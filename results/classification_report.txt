@@ -1,0 +1,10 @@
+
+              precision    recall  f1-score   support
+
+Smoke           0.91      0.84      0.87      3500
+fire            0.95      0.88      0.91      3500
+non fire        0.81      0.93      0.87      3500
+
+accuracy                            0.88     10500
+macro avg       0.89      0.88      0.88     10500
+weighted avg    0.89      0.88      0.88     10500
