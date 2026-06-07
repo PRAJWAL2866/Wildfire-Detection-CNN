@@ -9,6 +9,13 @@ This project classifies images into:
 - Non-Fire
 
 using Deep Learning techniques.
+## Project Links
+
+Kaggle Notebook
+https://www.kaggle.com/code/shreyansc/wildfire-notebook/notebook?scriptVersionId=325150269
+
+GitHub Repository
+https://github.com/PRAJWAL2866/Wildfire-Detection-CNN
 
 ## Dataset
 
