@@ -53,6 +53,25 @@ notebook/
 results/
 docs/
 
+## How to Run
+
+1. Install dependencies:
+pip install -r requirements.txt
+
+3. Download the dataset from Kaggle:
+https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset
+
+3. Open wildfire-notebook.ipynb
+
+4. Run all cells sequentially.
+
+5. The notebook will:
+   - Load the dataset
+   - Preprocess images
+   - Train the CNN model
+   - Evaluate the model
+   - Generate classification metrics
+  
 ## Author
 Prajwal Dattatray Phalke
 MSc Data Science(120B)
