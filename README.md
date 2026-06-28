@@ -17,6 +17,9 @@ https://www.kaggle.com/code/shreyansc/wildfire-notebook/notebook?scriptVersionId
 GitHub Repository
 https://github.com/PRAJWAL2866/Wildfire-Detection-CNN
 
+Overleaf Link
+https://www.overleaf.com/5735288346kqypgthnmyhs#a4a967
+
 ## Dataset
 
 Forest Fire, Smoke and Non-Fire Image Dataset
